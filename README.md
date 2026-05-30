@@ -33,4 +33,4 @@ The application layout relies on a robust multi-tiered environment to safely mon
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/USB-Threat-Detector.git](https://github.com/your-username/USB-Threat-Detector.git)
+   git clone https://github.com/varunsampath77-web/USB-Threat-Detector.git
